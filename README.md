@@ -8,6 +8,7 @@
 
 Request:
 ```GET /api/v1/posts/```
+
 Response:
 ```{
     "count": 2,
@@ -37,6 +38,7 @@ Response:
 
 Request:
 ```GET /api/v1/follow/```
+
 Request body:
 ```
 {
